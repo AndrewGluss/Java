@@ -1,4 +1,4 @@
-public class binarDecimal {
+public class BinarDecimal {
     public static void main(String[] args) {
         int decimalNumber = Integer.MAX_VALUE;
         System.out.println("Десятичное число " + decimalNumber + " равно двоичному числу " + toBinary(decimalNumber));
