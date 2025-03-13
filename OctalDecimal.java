@@ -1,4 +1,4 @@
-public class octalDecimal {
+public class OctalDecimal {
     public static void main(String[] args) {
         int decimalNumber = 21;
         System.out.println("Десятичное число " + decimalNumber + " равно восьмеричному числу " + toOctal(decimalNumber));
