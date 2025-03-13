@@ -1,4 +1,4 @@
-public class hexDecimal {
+public class HexDecimal {
     private static final String HEX = "0123456789abcdef";
 
     public static void main(String[] args) {
